@@ -9,3 +9,4 @@ run
 .classpath
 .settings
 /*.launch
+.recommenders
