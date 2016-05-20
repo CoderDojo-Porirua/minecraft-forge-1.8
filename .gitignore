@@ -6,3 +6,6 @@ bin
 .metadata
 saves
 run
+.classpath
+.settings
+/*.launch
